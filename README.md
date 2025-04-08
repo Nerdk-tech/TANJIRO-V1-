@@ -4,7 +4,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/bqs70b.jpg"  width="300" height="200">
+<img src = "https://files.catbox.moe/2yna0r.jpg"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=TANJIRO V1+MD+WHATSAPP+BOT+MD" alt="">
